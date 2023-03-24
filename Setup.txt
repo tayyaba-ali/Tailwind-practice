@@ -1,0 +1,42 @@
+Go to the official websites
+
+Step # 01
+
+copy the command
+npm install -D tailwindcss
+run in terminal
+
+Step # 02
+
+install vite by running this command on terminal
+
+npm i vite
+
+Step # 03
+
+In the package.json add the script and on the start of the script the vite will run
+
+"scripts": {
+    "start": "vite"
+  }
+
+
+Step # 04 
+
+Configure the tailwind file by just running the command
+
+npx tailwindcss init
+
+BY this you will have the tailwind.config.js file
+
+Lastly just simple add "*" in the content of the file to let it you i am using for all the elements 
+
+
+Step # 05
+
+Just simply install the tailwind intelligence extension to make your life easier
+
+
+Note:
+
+You have to setup this for production and have to use the cdn for development
