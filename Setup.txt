@@ -3,7 +3,7 @@ Go to the official websites
 Step # 01
 
 copy the command
-npm install -D tailwindcss
+npm install -D tailwindcss postcss autoprefixer
 run in terminal
 
 Step # 02
