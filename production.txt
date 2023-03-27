@@ -1,0 +1,13 @@
+in the package.json
+
+add
+
+"build":"vite build"
+
+run the command npm run build 
+
+all you website will minified in the folder dist 
+
+if you made any changes just run the npm run build command again
+
+you can use this dist folder for hosting on any platform you want
